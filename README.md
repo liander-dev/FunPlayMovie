@@ -14,6 +14,7 @@ Net framework 4.5 ou superior
 ASP e Asp.net ativados nos recursos adicionais do Windows
 
 Instalação (validação do sistema)
+
 1 - Atachar a base de dados "FunPlayMovie.mdf", localizado na pasta Databases em uma instância do SQLServer (no meu caso é (localdb)\Projects e estou usando autenticação do Windows para conexão com o SQL). Observação, o arquivo "FunPlayMovie_log.ldf" precisa ser mantido no mesmo diretório no momento de atachar. 
 
 2 - Abrir no Visual Studio o arquivo "FunPlayMovie.sln" localizado na pasta "FunPlayMovie"
