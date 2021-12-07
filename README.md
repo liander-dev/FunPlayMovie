@@ -5,8 +5,11 @@ Diagrama de banco de dados feito no SQL Management Studio 18, aplicação desenv
 
 Requisitos:
 Visual Studio 2012 ou superior
+
 Microsoft SQLServer 2008 ou superior (ou algum outro gerenciador de banco de dados que permita atachar base de dados em formato .mdf
+
 Net framework 4.5 ou superior
+
 ASP e Asp.net ativados nos recursos adicionais do Windows
 
 Instalação (validação do sistema)
