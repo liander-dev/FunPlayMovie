@@ -1,5 +1,5 @@
 # FunPlayMovie
-Aplicação desenvolvida com back-end em C#, e front-end desenvolvido em asp.net, HTML, CSS e Javscript
+Aplicação desenvolvida com back-end em C#, e front-end desenvolvido em asp.net, HTML, CSS e Javascript
 
 Diagrama de banco de dados feito no SQL Management Studio 18, aplicação desenvolvida em Visual Studio 2012 > ASPNET MVC 4 Web Application em .Net 4.5
 
