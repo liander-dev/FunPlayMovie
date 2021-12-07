@@ -29,7 +29,12 @@ Sendo que a instância é "(LocalDb)\" e o banco de dados "aspnet-FunPlayMovie-2
   
 5 - Será necessário criar um login na aba superior "Cadastrar-se" e em seguida logar para utilizar o cadastro de Filmes e Sessões.
   
-Observação: no meu caso eu utilizo o endereço "http://localhost:49914/" no navegador pois não foi setado um domínio para a aplicação.  
+Observações: 
+  
+no meu caso eu utilizo o endereço "http://localhost:49914/" pois não foi setado um domínio para a aplicação.  
+  
+Fiz upload de um arquivo .rar pois não foi possível instalar a integração com o Github no VisualStudio2012 e nem adicionar os arquivos manualmente no repositório pois existem diretórios com mais de 100 arquivos.  
+
   
   
   
