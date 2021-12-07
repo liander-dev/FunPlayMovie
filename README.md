@@ -4,6 +4,7 @@ Aplicação desenvolvida com back-end em C#, e front-end desenvolvido em asp.net
 Diagrama de banco de dados feito no SQL Management Studio 18, aplicação desenvolvida em Visual Studio 2012 > ASPNET MVC 4 Web Application em .Net 4.5
 
 Requisitos:
+
 Visual Studio 2012 ou superior
 
 Microsoft SQLServer 2008 ou superior (ou algum outro gerenciador de banco de dados que permita atachar base de dados em formato .mdf
